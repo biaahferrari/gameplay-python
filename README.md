@@ -17,10 +17,11 @@ Mini projeto feito em Python contendo:
 
 ## ▶️ Como executar
 
+Abra o terminal e execute:
+
 ```bash
 python main.py
 ```
-
 
 
 
