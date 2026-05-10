@@ -18,7 +18,7 @@ Mini projeto feito em Python contendo:
 ## ▶️ Como executar
 
 ```bash
-python main.py
+main.py
 ```
 
 
